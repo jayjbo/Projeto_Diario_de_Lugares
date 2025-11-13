@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800124048821",
+    "project_id": "diario-de-lugares",
+    "storage_bucket": "diario-de-lugares.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800124048821:android:be7affc35f380badceb5fc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCIf-o61LzYhr-2AxaPjno76sS2XJUcv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
